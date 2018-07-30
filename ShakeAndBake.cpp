@@ -8,12 +8,10 @@
  
 using namespace std;
 
-int youre = 17;
-int first = 18; 
 
 int main()
 {
-    if (youre != first)
+    if ("youre" != "first")
     {
         cout<<"You're last.";
         return 0;
