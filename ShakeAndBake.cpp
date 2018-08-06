@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-    if ("youre" != "first")
+    if ("you're" != "first")
     {
         cout<<"You're last.";
         return 0;
